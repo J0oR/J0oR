@@ -32,5 +32,5 @@ I'm a front-end developer in the making, with a passion for UI design and creati
 
 ## 🤝 Let's Connect
 
-- Portfolio: [https://j0or.github.io/portfolio/]  
+- Portfolio: [j0or.github.io/portfolio](https://j0or.github.io/portfolio/)  
 - LinkedIn: [linkedin.com/in/giovanni-ruocco/](https://www.linkedin.com/in/giovanni-ruocco/)
